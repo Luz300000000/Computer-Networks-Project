@@ -1,5 +1,6 @@
 ## Introduction
-- Os operadores de redes de computadores coletam tráfego diretamente dos seus routers com objetivo de analisar os padrões de comunicação dos serviços que correm na infraestrutura, por exemplo, para perceber se os recursos estão a ser usados de forma eficiente ou para detetar ataques à infraestrutura. Neste projeto exercemos "o papel de um operador de rede", através da análise de um trace de tráfego real capturado em uma rede de IoT (Internet of Things).
+- Network operators collect traffic directly from their routers with the aim of analyzing the communication patterns of services running on the infrastructure, for example, to understand whether resources are being used efficiently or to detect attacks on the infrastructure. In this project we play "the role of a network operator", through the analysis of a real traffic trace captured in an IoT (Internet of Things) network.
 
 ## Project Goal
-- Este projeto foi desenvolvido no âmbito da disciplina de 'Redes de Computadores' e tem como principal objetivo estudar as propriedades do tráfego contido em alguns traces para perceber os seus padrões, de forma a calcular algumas estatísticas e extrair conclusões acerca do comportamento dos nós de uma rede.
+- This project was developed within the scope of the 'Computer Networks' course and its main objective is to study the properties of the traffic contained in some traces to understand their patterns, in order to calculate some relevant statistics and draw conclusions about the behavior of network nodes.
+- **Languages/Technologies used:** Java, Wireshark and MS Excel
